@@ -1,0 +1,1 @@
+SLAM in scratch in python to learn more about multiview geometry.
